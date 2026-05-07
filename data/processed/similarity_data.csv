@@ -1,0 +1,20 @@
+name1,name2,address1,address2,label
+ABC Pvt Ltd,ABC Private Limited,Connaught Place,Connaught Place,1
+XYZ Industries,XYZ Ind.,Andheri East,Andheri East,1
+Global Tech,Global Technologies,Whitefield,Whitefield,1
+Fresh Foods,Fresh Farms,Lajpat Nagar,Lajpat Nagar,1
+Alpha Corp,Alpha Corporation,T Nagar,T Nagar,1
+Sunrise Traders,Sunrise Traders,MG Road,MG Road,1
+Green Leaf Pvt Ltd,Green Leaf Pvt Ltd,Saket,Saket,1
+Urban Mart,Urban Mart,Bandra West,Bandra West,1
+TechNova Solutions,TechNova Solutions,Hitech City,Hitech City,1
+Blue Ocean Exports,Blue Ocean Exporters,Fort,Fort,1
+Fresh Foods,TechNova Solutions,Lajpat Nagar,Hitech City,0
+Blue Ocean Exports,Green Leaf Pvt Ltd,Fort,Saket,0
+Blue Ocean Exports,Fresh Farms,Fort,Lajpat Nagar,0
+ABC Pvt Ltd,Urban Mart,Connaught Place,Bandra West,0
+ABC Pvt Ltd,Global Technologies,Connaught Place,Whitefield,0
+Urban Mart,XYZ Ind.,Bandra West,Andheri East,0
+Global Tech,TechNova Solutions,Whitefield,Hitech City,0
+Blue Ocean Exports,Alpha Corporation,Fort,T Nagar,0
+ABC Pvt Ltd,Green Leaf Pvt Ltd,Connaught Place,Saket,0
